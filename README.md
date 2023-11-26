@@ -15,7 +15,7 @@ Simple Internets is an open-source tool designed to provide a comprehensive yet 
 
 ### Prerequisites
 
-- Python 3.x
+- Python ^3.11
 - Poetry (Python dependency manager)
 
 ### Installation
